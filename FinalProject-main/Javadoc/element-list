@@ -1,0 +1,5 @@
+springnews.controller
+springnews.dao
+springnews.model
+springnews.service
+springnews.validator

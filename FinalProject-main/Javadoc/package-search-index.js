@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"springnews.controller"},{"l":"springnews.dao"},{"l":"springnews.model"},{"l":"springnews.service"},{"l":"springnews.validator"}];updateSearchResults();
